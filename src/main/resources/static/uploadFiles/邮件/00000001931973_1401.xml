@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="GBK"?><package xmlns="http://leave_hospital.bean.communication.background.server.cis.jckj.com">
+  <head>
+    <action_code>1401</action_code>
+    <mechanism_code>3708120000000001</mechanism_code>
+    <create_date>2018-01-26 10:06</create_date>
+  </head>
+  <body>
+    <center_info_id>661014000516</center_info_id>
+    <disease_sort>J</disease_sort>
+    <out_hospital_diagnoses>支气管肺炎</out_hospital_diagnoses>
+    <out_hospital_state_code>9</out_hospital_state_code>
+    <out_hospital_type_code>1</out_hospital_type_code>
+    <leave_hospital_date>2018-01-25</leave_hospital_date>
+    <balance_user>yzsrmyy</balance_user>
+    <base_insurance>1965.95</base_insurance>
+    <complementarity_insurance>0.0</complementarity_insurance>
+    <underway_criterion>0.0</underway_criterion>
+    <insurance_deduct>227.24</insurance_deduct>
+    <else_insurance_name>新农合报销</else_insurance_name>
+    <else_insurance_money>0.0</else_insurance_money>
+    <selfamnt>192.4</selfamnt>
+    <yearPlayFee>0.0</yearPlayFee>
+    <payRate>0.0</payRate>
+    <bmedicalSelfamnt>0.0</bmedicalSelfamnt>
+    <clinicsSelfamnt>0.0</clinicsSelfamnt>
+    <customerBedFee>0.0</customerBedFee>
+    <isStrictCheckPrescription>0</isStrictCheckPrescription>
+    <total_medical_cost>3348.5</total_medical_cost>
+    <total_self_payment>192.4</total_self_payment>
+    <compensatable_money>0.0</compensatable_money>
+  </body>
+  <addition_information>
+    <has_operation_successful>true</has_operation_successful>
+    <hint/>
+    <obtained_records_number>0</obtained_records_number>
+  </addition_information>
+</package>

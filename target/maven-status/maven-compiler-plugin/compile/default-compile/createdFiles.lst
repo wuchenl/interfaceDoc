@@ -1,0 +1,15 @@
+com\wuchen\interfacedoc\utils\UtilsJson.class
+com\wuchen\interfacedoc\entity\jiechuang\JXDesignateHospitalInfo.class
+com\wuchen\interfacedoc\controller\UrlController.class
+com\wuchen\interfacedoc\interceptor\HttpInterceptor.class
+com\wuchen\interfacedoc\entity\jiechuang\JXBody.class
+com\wuchen\interfacedoc\entity\ResultCode.class
+com\wuchen\interfacedoc\InterfaceDocApplication.class
+com\wuchen\interfacedoc\entity\jiechuang\JXFoot.class
+com\wuchen\interfacedoc\entity\jiechuang\JXHead.class
+com\wuchen\interfacedoc\controller\JsonController.class
+com\wuchen\interfacedoc\entity\jiechuang\JXPackage.class
+com\wuchen\interfacedoc\entity\XmlEntityItem.class
+com\wuchen\interfacedoc\entity\ResultInFo.class
+com\wuchen\interfacedoc\exception\ExceptionHandlerAdvice.class
+com\wuchen\interfacedoc\entity\XmlEntity.class
